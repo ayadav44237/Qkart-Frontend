@@ -35,9 +35,9 @@ QKart allows its customers to register and login.
 * They can then login to the website by entering the username and password set during the registration
 * Only logged in users can buy products
 
-![Register](https://drive.google.com/uc?export=view&id=1Z8WwLc8BUHCq1QQ_FRHt5uCsHXJvTNjY)
+![Register](https://drive.google.com/uc?id=1zEZdbo-vEW4ghHGz067G2c7rzIuFWi_j)
 
-![login](https://drive.google.com/uc?export=view&id=1DrwZIyToC40ifpl2Dd4jNEL8zdJGE2Mu)
+![login](https://drive.google.com/uc?id=1WUS4_T6aFnwDmXDYkW49Hxc8Lst-O0QP)
 
 #### 2. Products Page - 
 All the products are displayed here.
@@ -45,7 +45,7 @@ All the products are displayed here.
 * Users are provided details like the product price and category.
 * It also has a search feature.
 
-![Product](https://drive.google.com/uc?export=view&id=1ott_7Rq9OIhG3SDBb3TfXaADA0RQOY_t)
+![Product](https://drive.google.com/uc?id=1xodNaQkRYLijvm1O5XZWcD_M9Owx4kSM)
 
 #### 3. Checkout Page - 
 Users will be taken to the checkout page by clicking on the “Checkout” button on the Product page.
@@ -53,21 +53,21 @@ Users will be taken to the checkout page by clicking on the “Checkout” butto
 * The Checkout page shows an overview of the cart items, the total cost and the wallet balance for the user.
 * Users can add or choose an existing delivery address and place the order from here
 
-![checkout](https://drive.google.com/uc?export=view&id=1_o2iFgLEpwiF8L6Fl80-rYR7_jt52u7L)
+![checkout](https://drive.google.com/uc?id=1UNpwGiqbZb4ic_a1RXX04MkG00svq89O)
 
 #### 4. Order Confirmation Page - 
 Users are taken to this page when they successfully place their orders. It displays the tentative delivery date and the user’s wallet balance.
 
-![Confirmation](https://drive.google.com/uc?export=view&id=1Bgk_hZ0sfFwO39nGoBoNCDEiBKlNYFSv)
+![Confirmation](https://drive.google.com/uc?id=18VxVhk7xFCAdhT4cwfSmef-witRZb6tc)
 
 ## QKart Architecture
 ### QKart Component Architecture
 
-![forntend](https://drive.google.com/uc?export=view&id=1Lek4bgEXt6EALGWD465Go-_h_7Qb4xRf)
+![forntend](https://drive.google.com/uc?id=1ycMRq-26KrVReUpVCGhzig8zOlGdpoC0)
 
-The overall architecture of the QKart website given below. 
+The Backend architecture of the QKart website given below. 
 
-![forntend+backend](https://drive.google.com/uc?export=view&id=1yF-h6yr_qQdgCFu9CCz5Zvv-ERhxph_e)
+![backend](https://drive.google.com/uc?id=1oAzQPOI42SKx3QrwbngtsX0z8pdAzR2L)
 
 I provided a minimal backend with APIs exposed for use
 I'll be making calls to these APIs to perform actions like authenticating users, fetching product details etc.
