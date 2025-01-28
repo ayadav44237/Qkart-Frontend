@@ -71,3 +71,5 @@ The Backend architecture of the QKart website given below.
 
 I provided a minimal backend with APIs exposed for use
 I'll be making calls to these APIs to perform actions like authenticating users, fetching product details etc.
+
+## For any suggestion or any update kindly connect with ayadav44237@gmail.com  
